@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harirockg&label=Profile%20views&color=0e75b6&style=flat" alt="harirockg" /> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/harirockg](https://github.com/harirockg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harivan14290719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harivan14290719" height="30" width="40" /></a>
@@ -28,6 +28,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harirockg&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### My GitHub Contributions
 
-![Snake animation](https://github.com/harirockg/harirockg/blob/output/github-contribution-grid-snake.svg)
