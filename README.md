@@ -7,9 +7,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harirockg&label=Profile%20views&color=0e75b6&style=flat" alt="harirockg" /> </p>
 
-- 🌱 I’m currently learning **React JS,DSA**
-
-- 📫 How to reach me **harivansh8052@gmail.com**
+- 🌱 I’m currently learning **DSA**
+- 📫 How to reach me **DM_me_at_linkedin**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link](https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link)
 
