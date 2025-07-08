@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harirockg" alt="harirockg" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harirockg&label=Profile%20views&color=0e75b6&style=flat" alt="harirockg" /> </p>
 
 - 🌱 I’m currently learning **DSA**
-- 📫 How to reach me **DM_me_at_linkedin**
+- 📫 reach me **DM_me_at_linkedin**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link](https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link)
 
