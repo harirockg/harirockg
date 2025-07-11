@@ -27,6 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harirockg&show_icons=true&locale=en" alt="harirockg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harirockg&" alt="harirockg" /></p>
+
+----------
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harirockg" alt="harirockg" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=harirockg&theme=tokyonight&hide_border=true" alt="harirockg" />
 </p>
+
