@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DSA**
 - 📫 reach me **DM_me_at_linkedin**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link](https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link)
+- 📄 My Resume [[https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link](https://drive.google.com/file/d/1Y_T4es5UEIII_TJaww9Gu7KR-9TmQokO/view?usp=drive_link)](https://drive.google.com/file/d/1DAjMfq1g0WTfsQ2hdTxvTSKdRs3sUCjV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
