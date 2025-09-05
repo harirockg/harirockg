@@ -10,7 +10,7 @@
 - 📫 reach me **DM_me_at_linkedin**
 
 - 📄 My Resume
-- https://drive.google.com/file/d/1DAjMfq1g0WTfsQ2hdTxvTSKdRs3sUCjV/view?usp=sharing
+- https://drive.google.com/file/d/1_0rmdBjSz6ACT_L9WSEy9SlGxzXLTHtr/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
