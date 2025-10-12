@@ -9,8 +9,11 @@
 - 🌱 I’m currently learning **DSA**
 - 📫 reach me **DM_me_at_linkedin**
 
-- 📄 My Resume
-- https://drive.google.com/file/d/1YovH35q_6SzNK-WpmUk2kekMv_r5s1jw/view?usp=sharing
+<a href="[https://github.com/your-username/your-repo/blob/main/Resume.pdf](https://drive.google.com/file/d/10p6djiUlBn9V-_qCGwUB0laURFnA1P4K/view?usp=drive_link)" target="_blank">
+  <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    View Resume
+  </button>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
