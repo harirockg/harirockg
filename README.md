@@ -14,12 +14,15 @@
     padding: 12px 25px;
     font-size: 16px;
     font-weight: bold;
-    border: none;
+    border: 2px solid #2E8B57;
     border-radius: 6px;
     background: linear-gradient(90deg, #4CAF50, #2E8B57);
     color: white;
     cursor: pointer;
-  ">
+    transition: 0.3s;
+  " 
+  onmouseover="this.style.opacity='0.8'" 
+  onmouseout="this.style.opacity='1'">
     View Resume
   </button>
 </a>
