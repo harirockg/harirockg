@@ -9,8 +9,17 @@
 - 🌱 I’m currently learning **DSA**
 - 📫 reach me **DM_me_at_linkedin**
 
-<a href="[https://github.com/your-username/your-repo/blob/main/Resume.pdf](https://drive.google.com/file/d/10p6djiUlBn9V-_qCGwUB0laURFnA1P4K/view?usp=drive_link)" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
+<a href="https://drive.google.com/file/d/10p6djiUlBn9V-_qCGwUB0laURFnA1P4K/view?usp=drive_link" target="_blank">
+  <button style="
+    padding: 12px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #4CAF50, #2E8B57);
+    color: white;
+    cursor: pointer;
+  ">
     View Resume
   </button>
 </a>
