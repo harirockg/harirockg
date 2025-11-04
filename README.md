@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DSA**
 - 📫 reach me **DM_me_at_linkedin**
 
-[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/10p6djiUlBn9V-_qCGwUB0laURFnA1P4K/view?usp=drive_link)
+[![View Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1wP6mstvxW7sv0SN3pKGrcK3vEFQK7oWW/view?usp=drive_link)
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-green?style=for-the-badge&logo=github)](https://harivanshchauhan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
